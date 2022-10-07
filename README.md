@@ -34,10 +34,10 @@
 2. Портирование на React.js  
    Репозиторий: https://github.com/YuryAmonsky/mesto-react  
    Демо: https://yuryamonsky.github.io/mesto-react/
-3. Добавление функционала регистрации и авторизации пользователя (Текущий этап).  
+3. Добавление функционала регистрации и авторизации пользователя.  
    Репозиторий: https://github.com/YuryAmonsky/react-mesto-auth  
    Демо: https://yuryamonsky.github.io/react-mesto-auth/
-4. ToDo: создание собственного бэкенда.
-   Предстоит реализовать.
+4. Создание собственного бэкенда. (Текущий этап)
+   В работе.
 
 
