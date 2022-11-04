@@ -37,7 +37,6 @@
 3. Добавление функционала регистрации и авторизации пользователя.  
    Репозиторий: https://github.com/YuryAmonsky/react-mesto-auth  
    Демо: https://yuryamonsky.github.io/react-mesto-auth/
-4. Создание собственного бэкенда. (Текущий этап)  
-   В работе.
-
-
+4. Создание собственного бекенда.   
+   https://github.com/YuryAmonsky/express-mesto-gha
+5. Подготовка автотестов для фронтенда и бекенда
