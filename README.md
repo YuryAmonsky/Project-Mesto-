@@ -1,4 +1,4 @@
-# Project-Mesto-
+# Проект Mesto
 собрание частей учебного проекта "Место"
 
 ## Обзор
@@ -39,4 +39,5 @@
    Демо: https://yuryamonsky.github.io/react-mesto-auth/
 4. Создание собственного бекенда.   
    https://github.com/YuryAmonsky/express-mesto-gha
-5. Подготовка автотестов для фронтенда и бекенда
+5. Фронтенд и бекенд. Деплой на публичный сервер.  
+   https://github.com/YuryAmonsky/react-mesto-api-full
